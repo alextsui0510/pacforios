@@ -1,4 +1,4 @@
-var wall_proxy = "PROXY 127.0.0.1:8580;";
+var wall_proxy = "PROXY 192.168.1.200:8580;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var auto_proxy = wall_proxy; // if you have something like COW proxy
